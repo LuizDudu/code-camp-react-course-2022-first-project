@@ -1,4 +1,5 @@
 This is a training development of React Library from freeCodeCamp.org
+
 Link of the course: https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org
 
 This is the first project
@@ -6,7 +7,11 @@ This is the first project
 Quick start:
 
 You will need yarn or npm installed.
-And I've been developing with VSCode with extension Live Server: ritwickdey.LiveServer
+
+And I've been developing in VSCode with the extensions:
+```
+Live Server: ritwickdey.LiveServer
+```
 
 ```
 $ yarn # npm install
